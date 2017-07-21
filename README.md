@@ -1,2 +1,2 @@
-#init: react-native init xx
+#init: react-native init startRN
 # startRN
